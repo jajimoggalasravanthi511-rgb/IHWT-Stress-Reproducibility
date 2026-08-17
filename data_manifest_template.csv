@@ -1,0 +1,4 @@
+subject_id,session_id,condition,label,ecg_path,gsr_path,ppg_path,fs_ecg,fs_gsr,fs_ppg
+S001,baseline_01,baseline,0,/absolute/path/S001_baseline_ecg.csv,/absolute/path/S001_baseline_gsr.csv,/absolute/path/S001_baseline_ppg.csv,500,128,256
+S001,cognitive_01,cognitive_stress,1,/absolute/path/S001_cognitive_ecg.csv,/absolute/path/S001_cognitive_gsr.csv,/absolute/path/S001_cognitive_ppg.csv,500,128,256
+S001,emotional_01,emotional_stress,2,/absolute/path/S001_emotional_ecg.csv,/absolute/path/S001_emotional_gsr.csv,/absolute/path/S001_emotional_ppg.csv,500,128,256
